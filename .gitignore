@@ -1,0 +1,10 @@
+*result_*_.png
+*.DS_Store
+.idea
+.venv
+
+*__pycache__
+
+# オリジナルキャラ入れ
+images/origin_character/
+
